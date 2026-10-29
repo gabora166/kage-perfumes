@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="KAGE seal">
+  <rect width="128" height="128" rx="6" fill="#8D2028"/>
+  <rect x="9" y="9" width="110" height="110" rx="3" fill="none" stroke="#EAE2D3" stroke-width="2"/>
+  <!-- Vector abstraction of 影 (shadow): crown, stem, body stroke, base pillars — no font dependency -->
+  <g fill="#EAE2D3" transform="translate(32 22)">
+    <rect x="4" y="0" width="56" height="7" rx="1"/>
+    <rect x="27" y="10" width="10" height="14"/>
+    <path d="M0 30h64v8H38l16 20h-13L32 44 23 58H10l15-20H0z"/>
+    <rect x="0" y="64" width="64" height="6" rx="1"/>
+    <rect x="8" y="74" width="8" height="16"/>
+    <rect x="28" y="74" width="8" height="16"/>
+    <rect x="48" y="74" width="8" height="16"/>
+  </g>
+</svg>
